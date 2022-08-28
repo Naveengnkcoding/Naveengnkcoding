@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 <br>
 <br>
-<img style="width: 98%; margin: 0;" src="https://user-images.githubusercontent.com/89003953/187077249-39f24099-3ad7-454f-a36f-f7826f363085.png">
+<img style="width: 88%; margin: 0;" src="https://user-images.githubusercontent.com/89003953/187077249-39f24099-3ad7-454f-a36f-f7826f363085.png">
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning 3D Designing and Modelling
